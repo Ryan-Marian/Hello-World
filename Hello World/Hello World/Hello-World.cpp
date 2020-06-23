@@ -7,5 +7,6 @@ void main()
 	cout <<"Thank you";
 	cout << "Learning GITHUB";
 	cout << "Learning about Pull request";
+	cout << "Github is fun" << endl;
 	_getch();
 }
